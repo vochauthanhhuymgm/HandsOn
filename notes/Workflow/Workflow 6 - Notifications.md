@@ -89,7 +89,3 @@ For each trigger, we now have **internal notification** content in addition to e
 ---
 
 *Workflow 6 updated: 2026-03-27*
-
----
-
-All six workflows now include internal notifications as a channel. Do you want me to now **consolidate all six workflows into a single comprehensive requirements document** (BRD/FRD) that you can hand off to developers?
